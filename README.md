@@ -71,5 +71,5 @@ Setup and run guide:
     php artisan db:seed 
     php artisan serve 
 
-- Go to Url ling on Browser: http://127.0.0.1:8000/admin/appointment
+- Go to Url link on Browser: http://127.0.0.1:8000/admin/appointment
 =====================================================================
