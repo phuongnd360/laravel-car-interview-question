@@ -58,13 +58,16 @@ git format-patch develop
 
 4. Send the patch file back to us
 
-========================================================================================
+=====================================================================
 Setup and run guide:
 - Run: composer update
+
 - Create .env file and database MYSQL
+
 - Please script run: 
-    php artisan migrate
-    php artisan db:seed
-    php artisan serve
+    php artisan migrate 
+    php artisan db:seed 
+    php artisan serve 
+
 - Go to Url ling on Browser: http://127.0.0.1:8000/admin/appointment
-========================================================================================
+=====================================================================
