@@ -60,6 +60,8 @@ git format-patch develop
 
 =====================================================================
 Setup and run guide:
+- git clone https://github.com/phuongnd360/laravel-car-interview-question.git
+
 - Run: composer update
 
 - Create .env file and database MYSQL
